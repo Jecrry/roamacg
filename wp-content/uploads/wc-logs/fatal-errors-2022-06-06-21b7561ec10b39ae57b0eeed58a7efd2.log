@@ -1,0 +1,76 @@
+2022-06-06T08:52:07+00:00 CRITICAL /www/wwwroot/wp/wp-content/themes/vikinger/functions.php 中第 528 行的 syntax error, unexpected double-quote mark
+
+2022-06-06T08:53:01+00:00 CRITICAL /www/wwwroot/wp/wp-content/themes/vikinger/functions.php 中第 528 行的 syntax error, unexpected double-quote mark
+
+2022-06-06T12:30:06+00:00 CRITICAL /www/wwwroot/wp/wp-content/themes/vikinger/template-part/achievement/achievement-item-box.php 中第 48 行的 Uncaught TypeError: Cannot access offset of type string on string in /www/wwwroot/wp/wp-content/themes/vikinger/template-part/achievement/achievement-item-box.php:48
+Stack trace:
+#0 /www/wwwroot/wp/wp-includes/template.php(772): require()
+#1 /www/wwwroot/wp/wp-includes/template.php(716): load_template()
+#2 /www/wwwroot/wp/wp-includes/general-template.php(204): locate_template()
+#3 /www/wwwroot/wp/wp-content/themes/vikinger/page_quests.php(95): get_template_part()
+#4 /www/wwwroot/wp/wp-includes/template-loader.php(106): include('...')
+#5 /www/wwwroot/wp/wp-blog-header.php(19): require_once('...')
+#6 /www/wwwroot/wp/index.php(17): require('...')
+#7 {main}
+  thrown
+
+2022-06-06T12:30:37+00:00 CRITICAL /www/wwwroot/wp/wp-content/themes/vikinger/template-part/achievement/achievement-item-box.php 中第 48 行的 Uncaught TypeError: Cannot access offset of type string on string in /www/wwwroot/wp/wp-content/themes/vikinger/template-part/achievement/achievement-item-box.php:48
+Stack trace:
+#0 /www/wwwroot/wp/wp-includes/template.php(772): require()
+#1 /www/wwwroot/wp/wp-includes/template.php(716): load_template()
+#2 /www/wwwroot/wp/wp-includes/general-template.php(204): locate_template()
+#3 /www/wwwroot/wp/wp-content/themes/vikinger/page_quests.php(95): get_template_part()
+#4 /www/wwwroot/wp/wp-includes/template-loader.php(106): include('...')
+#5 /www/wwwroot/wp/wp-blog-header.php(19): require_once('...')
+#6 /www/wwwroot/wp/index.php(17): require('...')
+#7 {main}
+  thrown
+
+2022-06-06T12:32:44+00:00 CRITICAL /www/wwwroot/wp/wp-content/themes/vikinger/template-part/achievement/achievement-item-box.php 中第 48 行的 Uncaught TypeError: Cannot access offset of type string on string in /www/wwwroot/wp/wp-content/themes/vikinger/template-part/achievement/achievement-item-box.php:48
+Stack trace:
+#0 /www/wwwroot/wp/wp-includes/template.php(772): require()
+#1 /www/wwwroot/wp/wp-includes/template.php(716): load_template()
+#2 /www/wwwroot/wp/wp-includes/general-template.php(204): locate_template()
+#3 /www/wwwroot/wp/wp-content/themes/vikinger/page_quests.php(95): get_template_part()
+#4 /www/wwwroot/wp/wp-includes/template-loader.php(106): include('...')
+#5 /www/wwwroot/wp/wp-blog-header.php(19): require_once('...')
+#6 /www/wwwroot/wp/index.php(17): require('...')
+#7 {main}
+  thrown
+
+2022-06-06T12:33:35+00:00 CRITICAL /www/wwwroot/wp/wp-content/themes/vikinger/template-part/achievement/achievement-item-box.php 中第 48 行的 Uncaught TypeError: Cannot access offset of type string on string in /www/wwwroot/wp/wp-content/themes/vikinger/template-part/achievement/achievement-item-box.php:48
+Stack trace:
+#0 /www/wwwroot/wp/wp-includes/template.php(772): require()
+#1 /www/wwwroot/wp/wp-includes/template.php(716): load_template()
+#2 /www/wwwroot/wp/wp-includes/general-template.php(204): locate_template()
+#3 /www/wwwroot/wp/wp-content/themes/vikinger/page_quests.php(95): get_template_part()
+#4 /www/wwwroot/wp/wp-includes/template-loader.php(106): include('...')
+#5 /www/wwwroot/wp/wp-blog-header.php(19): require_once('...')
+#6 /www/wwwroot/wp/index.php(17): require('...')
+#7 {main}
+  thrown
+
+2022-06-06T12:33:40+00:00 CRITICAL /www/wwwroot/wp/wp-content/themes/vikinger/template-part/achievement/achievement-item-box.php 中第 48 行的 Uncaught TypeError: Cannot access offset of type string on string in /www/wwwroot/wp/wp-content/themes/vikinger/template-part/achievement/achievement-item-box.php:48
+Stack trace:
+#0 /www/wwwroot/wp/wp-includes/template.php(772): require()
+#1 /www/wwwroot/wp/wp-includes/template.php(716): load_template()
+#2 /www/wwwroot/wp/wp-includes/general-template.php(204): locate_template()
+#3 /www/wwwroot/wp/wp-content/themes/vikinger/page_quests.php(95): get_template_part()
+#4 /www/wwwroot/wp/wp-includes/template-loader.php(106): include('...')
+#5 /www/wwwroot/wp/wp-blog-header.php(19): require_once('...')
+#6 /www/wwwroot/wp/index.php(17): require('...')
+#7 {main}
+  thrown
+
+2022-06-06T12:38:33+00:00 CRITICAL /www/wwwroot/wp/wp-content/themes/vikinger/template-part/achievement/achievement-item-box.php 中第 48 行的 Uncaught TypeError: Cannot access offset of type string on string in /www/wwwroot/wp/wp-content/themes/vikinger/template-part/achievement/achievement-item-box.php:48
+Stack trace:
+#0 /www/wwwroot/wp/wp-includes/template.php(772): require()
+#1 /www/wwwroot/wp/wp-includes/template.php(716): load_template()
+#2 /www/wwwroot/wp/wp-includes/general-template.php(204): locate_template()
+#3 /www/wwwroot/wp/wp-content/themes/vikinger/page_quests.php(95): get_template_part()
+#4 /www/wwwroot/wp/wp-includes/template-loader.php(106): include('...')
+#5 /www/wwwroot/wp/wp-blog-header.php(19): require_once('...')
+#6 /www/wwwroot/wp/index.php(17): require('...')
+#7 {main}
+  thrown
+
